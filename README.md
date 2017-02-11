@@ -5,4 +5,4 @@ make some changes
 
 desktop test
 
-some new teat
+some new test
